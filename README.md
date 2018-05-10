@@ -1,2 +1,2 @@
-# wecat
-小demo
+# WeChat
+small-demo
