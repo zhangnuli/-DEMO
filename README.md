@@ -1,2 +1,2 @@
-# WeChat
-small-demo
+# 仿微信对话
+## 加强原生js的学习和对ES6语法的应用
